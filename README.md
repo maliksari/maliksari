@@ -14,7 +14,7 @@
 
 # 🇹🇷 Malik Sarı
 
-**Senior Backend Engineer**  
+**Senior Software Engineer**  
 AI Infrastructure • Distributed Systems • Production ML
 
 5+ yıllık deneyime sahip backend mühendisi olarak, yüksek trafikli sistemler ve production-grade ML altyapıları tasarlıyorum.  
