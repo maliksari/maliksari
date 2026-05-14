@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Malik%20Sarı&fontSize=56&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Senior%20Backend%20Engineer%20•%20AI%20Infrastructure%20•%20Distributed%20Systems&descAlignY=58&descSize=16&descColor=a8b2d8"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Malik%20Sarı&fontSize=56&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20•%20AI%20Infrastructure%20•%20Distributed%20Systems&descAlignY=58&descSize=16&descColor=a8b2d8"/>
 
 <br/>
 
@@ -74,7 +74,7 @@ PyTorch • Model Serving • LLM Inference
 
 # 🇬🇧 Malik Sarı
 
-**Senior Backend Engineer**  
+**Senior Software Engineer**  
 AI Infrastructure • Distributed Systems • Production ML
 
 Backend engineer with 5+ years of experience building production-grade systems.  
